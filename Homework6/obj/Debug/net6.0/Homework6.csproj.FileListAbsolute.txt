@@ -1,0 +1,15 @@
+D:\Учеба\Sem6\Homework6\bin\Debug\net6.0\Homework6.exe
+D:\Учеба\Sem6\Homework6\bin\Debug\net6.0\Homework6.deps.json
+D:\Учеба\Sem6\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+D:\Учеба\Sem6\Homework6\bin\Debug\net6.0\Homework6.dll
+D:\Учеба\Sem6\Homework6\bin\Debug\net6.0\Homework6.pdb
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.dll
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\refint\Homework6.dll
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.pdb
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
+D:\Учеба\Sem6\Homework6\obj\Debug\net6.0\ref\Homework6.dll
